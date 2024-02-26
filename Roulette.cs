@@ -10,6 +10,7 @@ namespace Casino
     internal class Roulette:Games
     {
         private AccountManager accountManager;
+
         private Player player;
 
         public Roulette(AccountManager manager)

@@ -10,6 +10,7 @@ namespace Casino
     internal class Blackjack:Games
     {
         private AccountManager accountManager;
+
         private Player player;
         public Blackjack(AccountManager manager)
         {

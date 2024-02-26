@@ -48,7 +48,7 @@ namespace Casino
                 }
                 else
                 {
-                    Console.WriteLine("Некорректный выбор. Попробуйте снова.");
+                    Console.WriteLine("Некорректный выбор! Попробуйте снова.");
                     continue;
                 }
 
